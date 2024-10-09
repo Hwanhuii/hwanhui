@@ -8,14 +8,14 @@ exclude: [vendor/ruby]
 
 # Personalization
 github_username: Hwanhuii
-blog_url: https://www.nagekar.com
+blog_url: 
 email: wh020627@gmail.com
-keybase_username: abhn
-twitter_username: abhn_
-reddit_username: abhn
+keybase_username: 
+twitter_username: 
+reddit_username: 
 
 # absolute or relative
-profile_picture: assets/images/me.png
+profile_picture: assets/images/personal.jpg
 
 # Google Analytics ID
 google_analytics: 
