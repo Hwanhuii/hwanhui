@@ -1,15 +1,15 @@
-title: Abhishek Nagekar
-description: Web & Security Engineer
-site_title: '@abhn - Abhishek Nagekar'
+title: Hwanhui Jo
+description: 
+site_title: 'Hwanhui Jo'
 
 # Build settings
 markdown: kramdown
 exclude: [vendor/ruby]
 
 # Personalization
-github_username: abhn
+github_username: Hwanhuii
 blog_url: https://www.nagekar.com
-email: abhishek@nagekar.com
+email: wh020627@gmail.com
 keybase_username: abhn
 twitter_username: abhn_
 reddit_username: abhn
